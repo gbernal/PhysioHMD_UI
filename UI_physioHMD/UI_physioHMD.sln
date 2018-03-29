@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_physioHMD", "Assembly-CSharp.csproj", "{5C78AA8A-0440-D11E-E8BC-6821DEEFDFE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_physioHMD", "Assembly-CSharp-Editor.csproj", "{E48D06E0-BD3E-187B-C3CB-FDBD75600F47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C78AA8A-0440-D11E-E8BC-6821DEEFDFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C78AA8A-0440-D11E-E8BC-6821DEEFDFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C78AA8A-0440-D11E-E8BC-6821DEEFDFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C78AA8A-0440-D11E-E8BC-6821DEEFDFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E48D06E0-BD3E-187B-C3CB-FDBD75600F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48D06E0-BD3E-187B-C3CB-FDBD75600F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48D06E0-BD3E-187B-C3CB-FDBD75600F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48D06E0-BD3E-187B-C3CB-FDBD75600F47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
