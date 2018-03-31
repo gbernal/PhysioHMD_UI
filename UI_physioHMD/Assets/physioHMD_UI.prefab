@@ -53,9 +53,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   material: {fileID: 2100000, guid: ca9b331b2cec04c35970f1bac907ab58, type: 2}
   mSprites:
+  - name: classification
+    x: 769
+    y: 545
+    width: 127
+    height: 65
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: noun_1083200_cc-01
-    x: 0
-    y: 27
+    x: 769
+    y: 611
     width: 188
     height: 173
     borderLeft: 0
@@ -67,7 +80,7 @@ MonoBehaviour:
     paddingTop: 18
     paddingBottom: 69
   - name: noun_1386984_cc-01
-    x: 189
+    x: 0
     y: 9
     width: 155
     height: 191
@@ -80,8 +93,8 @@ MonoBehaviour:
     paddingTop: 5
     paddingBottom: 64
   - name: noun_1437739_cc-01
-    x: 368
-    y: 273
+    x: 769
+    y: 785
     width: 239
     height: 239
     borderLeft: 0
@@ -106,7 +119,7 @@ MonoBehaviour:
     paddingTop: 3
     paddingBottom: 21
   - name: noun_350384_cc-01
-    x: 608
+    x: 368
     y: 335
     width: 112
     height: 177
@@ -119,8 +132,8 @@ MonoBehaviour:
     paddingTop: 16
     paddingBottom: 67
   - name: noun_356026_cc-01
-    x: 368
-    y: 84
+    x: 156
+    y: 12
     width: 145
     height: 188
     borderLeft: 0
@@ -132,8 +145,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 48
   - name: noun_576006_cc-01
-    x: 894
-    y: 379
+    x: 481
+    y: 268
     width: 118
     height: 133
     borderLeft: 0
@@ -145,8 +158,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 34
   - name: noun_76499_cc-01
-    x: 608
-    y: 235
+    x: 654
+    y: 413
     width: 173
     height: 99
     borderLeft: 0
@@ -158,8 +171,8 @@ MonoBehaviour:
     paddingTop: 44
     paddingBottom: 91
   - name: noun_794234_cc-01
-    x: 608
-    y: 107
+    x: 368
+    y: 207
     width: 102
     height: 127
     borderLeft: 0
@@ -171,7 +184,7 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 10
   - name: noun_866015_cc-01
-    x: 721
+    x: 481
     y: 402
     width: 172
     height: 110
@@ -183,6 +196,32 @@ MonoBehaviour:
     paddingRight: 18
     paddingTop: 49
     paddingBottom: 101
+  - name: rawdata-01
+    x: 897
+    y: 540
+    width: 74
+    height: 70
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Wooden Atlas
+    x: 0
+    y: 513
+    width: 768
+    height: 511
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 256
+    paddingTop: 1
+    paddingBottom: 0
   mPixelSize: 1
   mReplacement: {fileID: 0}
   mCoordinates: 0
